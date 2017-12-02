@@ -1,4 +1,47 @@
-.back2 {
 
-          background-color: black;
-         }
+#prof:hover{
+    border: 1px solid #00baff;
+    border-radius: 30px;
+    transition: 0.9s;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+#abo:hover{
+    border: 1px solid #00baff;
+    border-radius: 30px;
+    transition: 0.9s; 
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+#con:hover {
+
+   border: 1px solid #00baff;
+    border-radius: 30px;
+    transition: 0.9s; 
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+#banner{
+   background-color: transparent;
+   height: 300px;
+}
+#profile {
+    background-color : black ;
+}
+#pics {
+
+    border: 1px solid white;
+    width: 300px; height: 200px;
+}
+  #icon {
+  height: 40px;
+  width: 40px;
+  border: 5px;
+  border-radius: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+#footer{
+   color: white;
+  background-color: black;
+}
